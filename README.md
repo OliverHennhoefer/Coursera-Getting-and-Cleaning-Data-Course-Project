@@ -2,7 +2,7 @@
 
 * This work is part of the Coursera Course: Geting and Cleaning Data
 
-The included 'run_analysis.R' does the following:
+The included `run_analysis.R` does the following:
 1. Defines statics like the source of the data as url, the folder within he working directory etc.
 2. Creates a data folder when necessary and downloads&unzips the required raw data file
 3. Imports the different data files to work with
