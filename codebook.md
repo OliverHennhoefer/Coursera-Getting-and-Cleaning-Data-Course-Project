@@ -12,7 +12,6 @@ These signals were used to estimate variables of the feature vector for each pat
 # The Dataset
 The data is taken from UCI HAR Dataset ([download](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)). This dataset provides following variables:
 
-(0. Index in output table)
 1. subject - Participant ID (numeric)
 2. activity - Activity ID (character)
 3. Mean + standard deviation for following features (all numeric, float)
